@@ -1,0 +1,2 @@
+# TimeSyncTestClient
+一个在Windows上运行的基于NTP协议的时间同步测试工具
